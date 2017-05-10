@@ -1,5 +1,19 @@
 @import "color";
 
 body {
-  background-color: $lime;
+  background-color: $purple;
+}
+
+h3 {
+  color: $silver;
+}
+
+.panel {
+  margin: 15px;
+  background-color: $black;
+  color: $white;
+}
+
+.pull-right {
+  float: right !important;
 }

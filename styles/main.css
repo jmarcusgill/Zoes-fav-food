@@ -1,2 +1,13 @@
 body {
-  background-color: #01FF70; }
+  background-color: #B10DC9; }
+
+h3 {
+  color: #DDDDDD; }
+
+.panel {
+  margin: 15px;
+  background-color: #000;
+  color: #fff; }
+
+.pull-right {
+  float: right !important; }
